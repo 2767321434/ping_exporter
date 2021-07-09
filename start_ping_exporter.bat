@@ -1,0 +1,1 @@
+main.exe -port 8888 -pingaddr www.baidu.com -count 4
